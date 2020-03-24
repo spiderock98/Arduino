@@ -1,0 +1,8 @@
+def valmap(value, iStart, iStop, oStart, oStop):
+  return oStart + (oStop - oStart) * ((value - iStart) / (iStop - iStart))
+
+
+print '%-8s %-6s' % ('Input', 'Output')
+for x in range(21):
+    inval = float((x - 10) / 10.0)
+    print '%8.3f %6.1f' % (inval, valmap(inval, -1.0, 1.0, 0.0, 10.0))
