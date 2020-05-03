@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "979300938513",
+    "firebase_url": "https://pairdevices-e7bf9.firebaseio.com",
+    "project_id": "pairdevices-e7bf9",
+    "storage_bucket": "pairdevices-e7bf9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979300938513:android:10bf4927aea9b0723192b0",
+        "android_client_info": {
+          "package_name": "com.example.loginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979300938513-1pgio5vk6i84urnm3gigf2o1bled2fot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNvoCQnm1Ps3TXmu37v-njpt7r7Mk9ky8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979300938513-1pgio5vk6i84urnm3gigf2o1bled2fot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
