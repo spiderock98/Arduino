@@ -27,6 +27,7 @@ Programmer: Arduino as ISP
 3. **Upload** Example/Blink then see the result
 
 ### Reference Sources
+- [Datasheet](docs/ATtiny13A.pdf)
 - [MicroCore](https://github.com/MCUdude/MicroCore)
 - [Electronic Basics #3: Programming an Attiny+Homemade Arduino Shield](https://www.youtube.com/watch?v=9LjfkjwMqXI)
 - [Programming ATtiny13 with Arduino Uno](https://create.arduino.cc/projecthub/taunoerik/programming-attiny13-with-arduino-uno-07beba)
