@@ -27,6 +27,7 @@ Programmer: Arduino as ISP
 3. **Upload** Example/Blink then see the result
 
 ### Reference Sources
+- [PlatformIO Config](https://docs.platformio.org/en/latest/boards/atmelavr/attiny13a.html)
 - [Datasheet](docs/ATtiny13A.pdf)
 - [MicroCore](https://github.com/MCUdude/MicroCore)
 - [Electronic Basics #3: Programming an Attiny+Homemade Arduino Shield](https://www.youtube.com/watch?v=9LjfkjwMqXI)

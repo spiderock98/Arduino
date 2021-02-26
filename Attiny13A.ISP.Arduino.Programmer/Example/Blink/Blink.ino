@@ -2,12 +2,14 @@
 
 void setup()
 {
-    DDRB = B00000001;
+  DDRB = B00000001;
+  PRR |= (1 << 1) | (1 << 0); //shut down Timer/Counter0 module and ADC module
+  while (1) {
+    PORTB = ~PORTB;
+    delay(50);
+  }
 }
+
+
 void loop()
-{
-    PORTB = B00000001;
-    delay(1000);
-    PORTB = B00000000;
-    delay(1000);
-}
+{}
